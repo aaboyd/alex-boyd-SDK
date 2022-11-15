@@ -76,7 +76,7 @@ main();
 ## Development
 ### Run Sample
 ```
-yarn sample:dev`
+yarn sample:dev
 ```
 
 ### Test
