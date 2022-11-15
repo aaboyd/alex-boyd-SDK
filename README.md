@@ -85,11 +85,11 @@ yarn test
 ```
 
 ## :construction: TODO
-[ ] Finish up Client tests
-[ ] Use an instance of axios, and allow it to be passed in constructor
-[ ] Verify (and tweak as needed) function in a browser
-[ ] Rewrite `buildFilterParams` to not be so dense
-[ ] Test filter params work as expected
-[ ] Rate limiting / auto-throttling
-[ ] Add doc comments to methods, generate documentation!
+- [ ] Finish up Client tests
+- [ ] Use an instance of axios, and allow it to be passed in constructor
+- [ ] Verify (and tweak as needed) function in a browser
+- [ ] Rewrite `buildFilterParams` to not be so dense
+- [ ] Test filter params work as expected
+- [ ] Rate limiting / auto-throttling
+- [ ] Add doc comments to methods, generate documentation!
 
